@@ -1,12 +1,11 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on preparing my teaching courses, developping a website for a "metteur en scène de théâtre", working on several web projects in cultural domain... and playing bass. A lot. 
+
+- 🌱 I’m currently relearning the basic stuffs.
+
 <!--
-**thom4s/thom4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
