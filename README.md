@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on preparing my teaching courses, developping a website for a "metteur en scène de théâtre", working on several web projects in cultural domain... and playing bass. A lot. 
-
-- 🌱 I’m currently relearning the basic stuffs.
+- 🔭 Working on website dev
+- 🌱 Teahcing for some cool students
+- ⚡ Relearning the basic stuffs
 
 <!--
 - 👯 I’m looking to collaborate on ...
