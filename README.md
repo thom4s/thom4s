@@ -2,7 +2,7 @@
 
 
 - 🔭 Working on website dev
-- 🌱 Teahcing for some cool students
+- 🌱 Teaching for some cool students
 - ⚡ Relearning the basic stuffs
 
 <!--
